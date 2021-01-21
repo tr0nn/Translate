@@ -1,0 +1,193 @@
+#techword{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#increment{
+    text-align: center;
+}
+#formID{
+    margin-top: 80px;
+}
+#engInptTxt{
+    width: 25%;
+    padding: 31px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px 0px 0px 5px;
+    box-sizing: border-box;
+    margin-left: 475px;
+    border-bottom: 4px solid #ccc;
+    outline: none;
+    height: 120px;
+    font-size: 30px;
+    font-family:  Arial, Helvetica, sans-serif;
+}
+#geoOutTxt{
+    position: absolute;
+    height: 120px;
+    width: 25%;
+    padding: 38px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 0px 0px 5px 0px;
+    box-sizing: border-box;
+    margin-left: 0px;
+    border-bottom: 4px solid #ccc;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wordSubButton{
+    position: relative;
+    top: 110px;
+    left: -250px;
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 500px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#geoWord{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: -100px;
+}
+
+#engGeoBorder{
+    border:  1px solid #ccc;
+    border-top: 2px solid  darkslategray;
+    padding: 23px 20px;
+    width: 914px;
+    margin-left: 475px;
+    margin-top: -39px;
+    position: absolute;
+    border-radius: 5px 5px 0px 0px;
+}
+#engtext{
+    position: relative;
+    top: 20px;
+    margin-left: 500px;
+    font-family: 'Google Sans',sans-serif;
+}
+#geotext{
+    position: absolute;
+    margin-left: 970px;
+    margin-top: -27px;
+    font-family: 'Google Sans',sans-serif;
+}
+#hrID{
+    position: absolute;
+    width: 100%;
+    margin-left: -12px;
+    margin-top: -40px;
+    border: 2px solid  darkslategray;
+}
+#hrID2{
+    position: absolute;
+    width: 100%;
+    margin-left: -12px;
+    margin-top: 110px;
+    border: 2px solid  darkslategray;
+}
+#addwordform{
+    margin-top: 200px;
+    position: absolute;
+    left: 150px;
+}
+#closeButoon{
+    position: absolute;
+    margin-left: 910px;
+    top: 240px;
+    opacity: 0.3;
+    display: inline-block;
+    font-size: 25px;
+    border: none;
+    background: none;
+    outline: none;
+}
+#closeButoon:hover {
+    opacity: 1;
+    border:none;
+  }
+#addwordh1{
+    font-family: 'Google Sans',sans-serif;
+    font-size: 30px;
+    margin-left: 130px;
+}
+.addEngGeoWord{
+    width: 400px;
+    
+    margin: 0px 0;
+    display: inline-block;
+    border: 0px solid #ccc;
+    border-radius: 2px 2px 2px 2px;
+    box-sizing: border-box;
+    margin-left: 0px;
+    border-left: 5px solid #ccc;
+    border-right: 5px solid #ccc;;
+    outline: none;
+    height: 50px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+#addSubButton{
+    position: relative;
+    top: 20px;
+    left: -5px;
+    background-color: darkslategray;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 405px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#outputH1{
+    display: none;
+    font-size: 20px;
+    font-family: 'Google Sans',sans-serif;
+    margin-top: 40px;
+    margin-left: 40px;
+}
+#boostrapHistory{
+    position: absolute;
+    margin-left: 30px;
+    margin-top: 200px;
+}
+#HistoryDivId{
+    
+}
+#HistoryLocation{
+    margin-left: 900px;
+}
+#HistoryButoonId{
+    position: absolute;
+    top:620px;
+    margin-left: 35px;
+
+    border: 1px solid green;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+}
